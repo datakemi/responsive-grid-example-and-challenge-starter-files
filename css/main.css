@@ -12,19 +12,71 @@ main .row {
   padding-top: 30px;
 }
 
-.black {
-  background-color: black;
+.orange {
+  background-color: orange;
   color: white;
+}
+
+.blue {
+  background-color: blue;
 }
 
 .green {
   background-color: green;
 }
 
+.black {
+  background-color: black;
+}
+
+
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
 .orange {
   background-color: orange;
+  color: white;
 }
 
 .blue {
   background-color: blue;
 }
+
+.green {
+  background-color: green;
+}
+
+
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.orange {
+  background-color: orange;
+  color: white;
+}
+
+.blue {
+  background-color: blue;
+}
+
+
+
+.box {
+  height: 200px;
+  text-align: center;
+  padding-top: 30px;
+}
+
+.orange {
+  background-color: orange;
+  color: white;
+}
+
